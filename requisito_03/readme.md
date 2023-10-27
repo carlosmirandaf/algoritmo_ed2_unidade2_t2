@@ -1,0 +1,7 @@
+|  Rede | Qtd Nós | Qtd Arestas | Degree Assorativity Coefficient | Qtd. Componentes Conectados | GCC | Coef. clustering |
+| ------- | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
+| deezer_romenia | 41773 | 125826 | 0.1140 | 1 | 41773 | 0.0912 |
+| facebook_combined | 4039 | 88234 | 0.0636 | 1 | 4039 | 0.6055 |
+| github | 37700 | 289003 | -0.0752 | 1 | 37700 | 0.1675 |
+| roadnet_CA | 1965206 | 2766607 | 0.1260 | 2638 | 1957027 | 0.0464 |
+| wiki_vote | 7115 | 100762 | -0.0831 | 24 | 7066 | 0.1409 |
