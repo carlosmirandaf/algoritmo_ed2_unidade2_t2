@@ -1,4 +1,4 @@
-|  Rede               | Qtd Nós | Qtd Arestas | Dg Assorativity Coeff. | Qtd. Componentes Conectados | GCC     | Coef. clustering |
+|  Rede               | Qtd Nós | Qtd Arestas | Dg Assortativity Coeff. | Qtd. Componentes Conectados | GCC     | Coef. clustering |
 | ------------------- | ------- | ----------- | ---------------------- | --------------------------- | ------- | ------ |
 | deezer_romenia      | 41773   | 125826      | 0.1140                 | 1                           | 41773   | 0.0912 |
 | facebook_combined   | 4039    | 88234       | 0.0636                 | 1                           | 4039    | 0.6055 |
