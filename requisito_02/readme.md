@@ -1,4 +1,4 @@
-# Análise dos códigos e gráficos das redes
+# Análise dos gráficos das redes
 
  Para este trabalho, foram utilizadas cinco redes para mostrar o funcionamento de conceitos sobre assortatividade, small worlds e homofilia. Das cinco, quatro dessas redes envolvem redes sociais (considerando aqui o GitHub e Wikipedia como duas delas) e uma rede é sobre a estrada do estado da California, nos EUA. Adiante, em cada exemplo de rede dentro das descrições de aplicações, como consta o site da SNAP, foi observado um comportamento similar em quatro dessas redes, exceto o do exemplo da estrada.
 
