@@ -1,4 +1,6 @@
 Análise dos valores obtidos para as redes usadas
+
+
 Após a obtenção dos gráficos das redes para analisar a proximidade dos nós e arestas com base nas diferentes interpretações dos códigos,
 para o código ainda foi feito também a obtenção de valores como a quantidade de nós e arestas, coeficiente da assortatividade, a quantidade de componentes conectados, o tamanho do componente gigante (GCC) e a média da coeficiência de clustering. Com eles, foi gerado uma tabela para comparar os dados.  
 
