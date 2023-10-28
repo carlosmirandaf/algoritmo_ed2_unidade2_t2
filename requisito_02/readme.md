@@ -1,4 +1,4 @@
-<b>Análise dos códigos e gráficos das redes</b>
+# Análise dos códigos e gráficos das redes
 
   Para este trabalho, foram utilizadas cinco redes para mostrar o funcionamento de conceitos sobre assortatividade, small worlds e homofilia.
 Das cinco, quatro dessas redes envolvem redes sociais (considerando aqui o GitHub e Wikipedia como duas delas) e uma rede é sobre a estrada 
