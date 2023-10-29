@@ -8,10 +8,14 @@ Foram utilizadas cinco redes como exemplo para demonstrar o funcionamento neste 
 O repositório do requisito 02 contém os códigos para cada uma das redes, que se encontram dentro da pasta 'source', fora desta pasta, encontram-se os gráficos gerados da execução e um 'readme' que busca explicá-los. A linguagem utilizada para os códigos foi Python, nele foram utilizadas funções do NetworkX e da biblioteca do Matplot para não apenas gerar os gráficos, mas também exibir os resultados para os itens propostos na tabela que se encontra no requisito 03. Dentro deste, além da tabela, há outro 'readme' que busca explicar o que os números gerados significam e interpretar com o que isso representa para a compreensão das redes.
 
 
+
+
 **Discente: Carlos Antonio Miranda Filho - 20220080599**
 
 
 Link do vídeo:
+
+
 
 
 **Referências:**
