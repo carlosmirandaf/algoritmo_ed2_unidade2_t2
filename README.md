@@ -13,6 +13,8 @@ Link do vídeo:
 
 
 **Referências:**
+
+
 COSCIA, M. *The Atlas for the Aspiring Network Scientist*. IT University of Copenhagen. 2021
 
 
