@@ -10,7 +10,7 @@ O repositório do requisito 02 contém os códigos para cada uma das redes, que 
 
 
 
-**Discente: Carlos Antonio Miranda Filho - 20220080599**
+**Discente:** Carlos Antonio Miranda Filho - 20220080599
 
 
 **Link do vídeo:** [Trabalho 02 - Small Worlds](https://drive.google.com/file/d/1ebKpMOgyam8h6QePGUvHWH01v39ieN_3/view?usp=sharing)
