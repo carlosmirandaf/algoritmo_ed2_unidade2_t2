@@ -1,8 +1,9 @@
 import networkx as nx
 import matplotlib.pyplot as plt
+import numpy as np
 
 G = nx.Graph()
-
+fig, ax = plt.subplots(figsize=(9,9))
 nodes_from = set()
 nodes_to = set()
 
@@ -66,10 +67,10 @@ avg_degree_connectivity = nx.average_degree_connectivity(G)
 degrees, avg_connectivities = zip(*avg_degree_connectivity.items())
 
 # Crie um gráfico de dispersão
-plt.scatter(degrees, avg_connectivities, alpha=0.5, label='Scatter Plot')
-
-# Adicione uma linha de assortatividade no gráfico
-plt.axhline(assortativity, color='red', linestyle='--', label='Assortativity')
+plt.scatter(degrees, avg_connectivities, s=60, alpha=0.5, edgecolors = 'k', label='Scatter Plot')
+b, a = np.polyfit(degrees, avg_connectivities, deg=1)
+xseq = np.linspace(min(degrees), max(degrees), num=100)
+ax.plot( xseq, a + b * xseq, color='red', lw=2.5)
 
 # Defina rótulos dos eixos e legenda
 plt.xlabel('Node Degree')
